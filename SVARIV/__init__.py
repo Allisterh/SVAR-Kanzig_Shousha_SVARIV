@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 from pylab import rcParams
 import io 
 
+# Based on  https://github.com/MaxLugo/SVARIV/blob/master/SVARIV/__init__.py
+
+
 # Function to calculate the critical value of the Gaussian distribution for given confidence interval
 def norm_critval(confidence=0.95, sq=False):
     '''
