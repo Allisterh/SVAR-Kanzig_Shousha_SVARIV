@@ -11,6 +11,7 @@ Project of estimation effects of shocks from Shousha (2016) by external instrume
 8) Compare the results
  
 Code uses SVAR-IV module https://github.com/MaxLugo/SVARIV
+Code uses Local Projections by elenev https://github.com/elenev/localprojections/blob/master/localprojections.py
 
 References:
 
@@ -22,5 +23,5 @@ References:
 
 For future work:
 
-1) Perform Local Projections estimation and IRFs for this method
+1) Perform Local Projections estimation and IRFs for this method (done)
 2) ....
