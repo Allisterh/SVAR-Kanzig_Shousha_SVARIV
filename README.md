@@ -10,8 +10,11 @@ Project of estimation effects of shocks from Shousha (2016) by external instrume
 7) Make (2-6) for data used in Shousha (2016) with (1) - external instrument from Känzig (2021)
 8) Compare the results
  
-Code uses SVAR-IV module https://github.com/MaxLugo/SVARIV
-Code uses Local Projections by elenev https://github.com/elenev/localprojections/blob/master/localprojections.py
+Code uses SVAR-IV module 
+https://github.com/MaxLugo/SVARIV
+
+Code uses Local Projections by elenev 
+https://github.com/elenev/localprojections/blob/master/localprojections.py
 
 References:
 
