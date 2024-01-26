@@ -19,7 +19,9 @@ https://github.com/elenev/localprojections/blob/master/localprojections.py
 References:
 
 1_Inference in Structural Vector Autoregressions identified with an external instrument (https://www.sciencedirect.com/science/article/abs/pii/S0304407620302311?via%3Dihub)
+
 2)The macroeconomic effects of oil supply news: Evidence from OPEC announcements (https://www.aeaweb.org/articles?id=10.1257/aer.20190964&&from=f)
+
 3)Macroeconomic Effects of Commodity Booms and Busts : The Role of Financial Frictions  (https://www.semanticscholar.org/paper/Macroeconomic-Effects-of-Commodity-Booms-and-Busts-Shousha/0a07600da558e02814efdac5c3111aa5d7b071c2)
 
 
@@ -27,4 +29,5 @@ References:
 For future work:
 
 1) Perform Local Projections estimation and IRFs for this method (done)
-2) ....
+   
+3) ....
