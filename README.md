@@ -16,6 +16,13 @@ https://github.com/MaxLugo/SVARIV
 Code uses Local Projections by elenev 
 https://github.com/elenev/localprojections/blob/master/localprojections.py
 
+Data as in Shousha(2016):
+1)https://www.bis.org/
+2)https://stats.oecd.org/
+
+
+
+
 References:
 
 1_Inference in Structural Vector Autoregressions identified with an external instrument (https://www.sciencedirect.com/science/article/abs/pii/S0304407620302311?via%3Dihub)
