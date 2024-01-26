@@ -16,7 +16,7 @@ https://github.com/MaxLugo/SVARIV
 Code uses Local Projections by elenev 
 https://github.com/elenev/localprojections/blob/master/localprojections.py
 
-Data as in Shousha(2016):
+Data as in Shousha (2016):
 
 1)https://www.bis.org/
 
