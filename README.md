@@ -24,6 +24,8 @@ Graphs and plots are my replications of graphs from Sousha(2016) and Känzig (20
 Data may differ due to  my choice of sources
 <br>
 <br>
+Data as in Kanzig taken from replication files from the site<br>
+https://www.diegokaenzig.com/research<br> <br>
 
 
 Data as in Shousha (2016):
