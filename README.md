@@ -22,8 +22,11 @@ Graphs and plots are my replications of graphs from Sousha(2016) and Känzig (20
 <br>
 
 Data may differ due to  my choice of sources
+
 <br>
+
 <br>
+
 Data as in Känzig (2021) taken from replication files from the site<br>
 https://www.diegokaenzig.com/research<br> <br>
 
