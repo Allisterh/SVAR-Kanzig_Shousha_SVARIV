@@ -14,9 +14,9 @@ Code uses SVAR-IV module
 https://github.com/MaxLugo/SVARIV
 
 Code uses Local Projections by elenev 
-https://github.com/elenev/localprojections/blob/master/localprojections.py
+https://github.com/elenev/localprojections/blob/master/localprojections.py<br><br>
 
-Graphs and plots are my replications of graphs from Sousha(2016) and Känzig (2021)
+Graphs and plots are my replications of graphs from Sousha(2016) and Känzig (2021)<br><br>
 
 Data may differ due to  my choice of sources
 
