@@ -63,4 +63,7 @@ For future work:
 
 1) Perform Local Projections estimation and IRFs for this method (done)
    
-3) ....
+3) Use Data for Russia and Mexico for the analysis
+4) Try to perform DSGE
+5) Try to obtain better results for data and perform different methods of detrending
+6) ...
